@@ -7,7 +7,7 @@ Start from zero. You only need to know `print` and basic data types to begin. Le
 
 - [x] **1. Personal Introduction** — Print your name, age, and a short introduction. Store the information in variables instead of writing everything directly inside `print`.
 - [x] **2. Custom Greeting** — Ask the user for their name and greet them using what they entered.
-- [ ] **3. Age Calculator** — Ask for someone's birth year, then calculate and display how old they turn this year.
+- [x] **3. Age Calculator** — Ask for someone's birth year, then calculate and display how old they turn this year.
 - [ ] **4. Temperature Converter** — Let the user enter a temperature and convert Celsius to Fahrenheit or Fahrenheit to Celsius.
 - [ ] **5. Grade Checker** — Ask for a score from 0 to 100 and display a grade (A, B, C, D, or F). Handle scores outside that range.
 - [ ] **6. Mini Calculator** — Ask for two numbers and an operation (+, -, *, /). Display the result and handle division by zero.
