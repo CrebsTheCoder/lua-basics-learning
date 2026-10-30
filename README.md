@@ -14,7 +14,7 @@ Start from zero. You only need to know `print` and basic data types to begin. Le
 - [x] **7. Multiplication Table Generator** — Ask for a number and print its multiplication table from 1 to 12 using a loop.
 - [x] **8. Password Gate** — Set a secret password. Keep asking the user to enter it until they get it right, and count their attempts.
 - [x] **9. Number Guessing Game** — Generate a random number from 1 to 100. Tell the player whether each guess is too high or too low until they win.
-- [ ] **10. Multiple-Choice Quiz** — Create at least five questions, accept answers, track the score, and display the final result.
+- [x] **10. Multiple-Choice Quiz** — Create at least five questions, accept answers, track the score, and display the final result.
 - [ ] **11. Reusable Unit Converter** — Build a menu that converts kilometers/miles, kilograms/pounds, and Celsius/Fahrenheit. Put each conversion in its own function.
 - [ ] **12. Receipt Generator** — Let the user enter item prices and quantities. Calculate subtotals, tax or a discount, and the final bill.
 - [ ] **13. Shopping List Manager** — Let users add, view, and remove items from a list. Keep the program running until they choose to quit.
@@ -25,6 +25,9 @@ Start from zero. You only need to know `print` and basic data types to begin. Le
 - [ ] **18. Game Inventory System** — Create items with names, quantities, and values. Let the player collect, use, and remove items, and show their inventory.
 - [ ] **19. Persistent Notes App** — Let users write, list, and delete notes. Save them to a file so the notes are still there after restarting the program.
 - [ ] **20. Text Adventure RPG** — Create a small game with locations, choices, enemies, health, items, and a win condition. Use functions and tables to organize it. Add save/load if you want an extra challenge.
+
+## Extras
+ [x] Made cookie clicker with love2d at 3:23am :D
 - 
 
 ## Rules
