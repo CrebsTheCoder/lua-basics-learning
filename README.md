@@ -12,7 +12,7 @@ Start from zero. You only need to know `print` and basic data types to begin. Le
 - [x] **5. Grade Checker** — Ask for a score from 0 to 100 and display a grade (A, B, C, D, or F). Handle scores outside that range.
 - [x] **6. Mini Calculator** — Ask for two numbers and an operation (+, -, *, /). Display the result and handle division by zero.
 - [x] **7. Multiplication Table Generator** — Ask for a number and print its multiplication table from 1 to 12 using a loop.
-- [ ] **8. Password Gate** — Set a secret password. Keep asking the user to enter it until they get it right, and count their attempts.
+- [x] **8. Password Gate** — Set a secret password. Keep asking the user to enter it until they get it right, and count their attempts.
 - [ ] **9. Number Guessing Game** — Generate a random number from 1 to 100. Tell the player whether each guess is too high or too low until they win.
 - [ ] **10. Multiple-Choice Quiz** — Create at least five questions, accept answers, track the score, and display the final result.
 - [ ] **11. Reusable Unit Converter** — Build a menu that converts kilometers/miles, kilograms/pounds, and Celsius/Fahrenheit. Put each conversion in its own function.
